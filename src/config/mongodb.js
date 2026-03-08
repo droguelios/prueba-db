@@ -1,12 +1,14 @@
-const {mongoClient} = require ('mongodb');
-const client = new 
-mongoClient(process.env.mongo_URI);
+const { MongoClient } = require('mongodb');
 
-async function connetmongo(){
-    if (!client.topology || ! client.topology()){
+require('dotenv').config();
+
+const client = new MongoClient(process.env.MONGO_URI);
+
+async function connectMongo() {
+    if (!client.topology || !client.topology.isConnected()) {
         await client.connect();
     }
     return client.db("db_megastore_examn");
 }
 
-module.exports = connectMongo;
+module.exports = { connectMongo };

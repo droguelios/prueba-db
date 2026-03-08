@@ -1,0 +1,13 @@
+TransactionID,Date,CustomerName,CustomerEmail,Address,ProductCategory,SKU,ProductName,UnitPrice,Quantity,SupplierName,SupplierContact
+TRX001,2024-01-15,Juan Pérez,juan.perez@email.com,Calle Principal 123 Bogotá,Electronics,SKU001,Laptop Dell,800.00,2,TechSupplies Inc.,contact@techsupplies.com
+TRX002,2024-01-16,María García,maria.garcia@email.com,Carrera 10 456 Bogotá,Electronics,SKU002,Mouse Logitech,25.00,5,TechSupplies Inc.,contact@techsupplies.com
+TRX003,2024-01-17,Juan Pérez,juan.perez@email.com,Calle Principal 123 Bogotá,Office,SKU003,Desk Chair,150.00,1,FurnitureCo,sales@furniturecо.com
+TRX004,2024-01-18,Carlos López,carlos.lopez@email.com,Avenida Siete 789 Medellín,Electronics,SKU004,Monitor LG,300.00,3,ScreenVendor Ltd.,info@screenvend.com
+TRX005,2024-01-19,Ana Martínez,ana.martinez@email.com,Cra 15 321 Cali,Office,SKU005,Office Desk,200.00,2,FurnitureCo,sales@furniturecо.com
+TRX006,2024-01-20,Juan Pérez,juan.perez@email.com,Calle Principal 123 Bogotá,Electronics,SKU001,Laptop Dell,800.00,1,TechSupplies Inc.,contact@techsupplies.com
+TRX007,2024-01-21,María García,maria.garcia@email.com,Carrera 10 456 Bogotá,Office,SKU006,Filing Cabinet,120.00,4,FurnitureCo,sales@furniturecо.com
+TRX008,2024-01-22,Roberto Sánchez,roberto.sanchez@email.com,Calle 50 654 Barranquilla,Electronics,SKU007,Keyboard Mechanical,85.00,6,TechSupplies Inc.,contact@techsupplies.com
+TRX009,2024-01-23,Ana Martínez,ana.martinez@email.com,Cra 15 321 Cali,Electronics,SKU002,Mouse Logitech,25.00,3,TechSupplies Inc.,contact@techsupplies.com
+TRX010,2024-01-24,Carlos López,carlos.lopez@email.com,Avenida Siete 789 Medellín,Office,SKU008,Whiteboard,45.00,2,OfficeSuppliesHub,bulk@officesupp.com
+TRX011,2024-01-25,María García,maria.garcia@email.com,Carrera 10 456 Bogotá,Electronics,SKU004,Monitor LG,300.00,1,ScreenVendor Ltd.,info@screenvend.com
+TRX012,2024-01-26,Juan Pérez,juan.perez@email.com,Calle Principal 123 Bogotá,Office,SKU009,Notebook Pack,15.00,10,OfficeSuppliesHub,bulk@officesupp.com
